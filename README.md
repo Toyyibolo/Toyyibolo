@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toyyibolo&label=Profile%20views&color=0e75b6&style=flat" alt="toyyibolo" /> </p>
 
-- 🔭 I’m currently working on **Octar**
+  - 🔭 I’m currently working on **Fruit Hub**
 
-- 🌱 I’m currently learning **DATA STRUCTURE AND ANALYSIS IN DART**
+- 🌱 I’m currently learning **Artificial Intelligence In Flutter**
 
 - 💬 Ask me about **FLUTTER, DART**
 
