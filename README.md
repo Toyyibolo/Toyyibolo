@@ -5,7 +5,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently building beautiful and functional mobile experiences with **Flutter** **Riverpod**, **Rive animations**, and **Firebase**
+- 🔭 I’m currently building beautiful and functional mobile experiences with **Flutter**, **Riverpod**, **Rive animations**, and **Firebase**
 - 🌍 I love turning ideas into scalable, pixel-perfect UIs
 - 🤝 I’m looking to collaborate on real-world projects
 - 💬 Ask me about clean architecture, Hive, and state management
