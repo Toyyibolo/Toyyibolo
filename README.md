@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toyyibolo&label=Profile%20views&color=0e75b6&style=flat" alt="toyyibolo" /> </p>
 
-  - 🔭 I’m currently working on **Fruit Hub**
+  - 🔭 I’m currently working on **Beast Video Player**
 
 - 🌱 I’m currently learning **Artificial Intelligence In Flutter**
 
@@ -23,7 +23,7 @@
 <a href="https://www.youtube.com/c/opadijo toheeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="opadijo toheeb" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+💻 Tech Stack
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a> <a href="https://pub.dev/packages/riverpod" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rrousselGit/riverpod/master/resources/logo.svg" alt="Riverpod" width="40" height="40"/> </a> <a href="https://pub.dev/packages/hive" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hivedb/hive/master/images/logo.png" alt="Hive" width="40" height="40"/> </a> <a href="https://rive.app/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/rive.svg" alt="Rive" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=toyyibolo&show_icons=true&locale=en&layout=compact" alt="toyyibolo" /></p>
