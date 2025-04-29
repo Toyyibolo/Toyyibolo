@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toheeb Opadijo</h1>
-<h3 align="center">Flutter Developer • UI Enthusiast • Open Source Lover</h3>
+<h3 align="center">Flutter Developer • Open Source Lover</h3>
 
 ---
 
