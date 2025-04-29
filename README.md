@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Toheeb</h1>
+<h1 align="center">Hi 👋, I'm Toheeb Opadijo</h1>
 <h3 align="center">Flutter Developer • UI Enthusiast • Open Source Lover</h3>
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 I’m currently building beautiful mobile experiences with **Flutter**
-- 🌱 I’m diving deeper into **Riverpod**, **Rive animations**, and **Firebase**
+- 🔭 I’m currently building beautiful and functional mobile experiences with **Flutter** **Riverpod**, **Rive animations**, and **Firebase**
 - 🌍 I love turning ideas into scalable, pixel-perfect UIs
-- 🤝 I’m looking to collaborate on **Flutter internships** and real-world projects
+- 🤝 I’m looking to collaborate on real-world projects
 - 💬 Ask me about clean architecture, Hive, and state management
 
 ---
