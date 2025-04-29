@@ -14,13 +14,13 @@
 
 ### 💻 Tech Stack
 
-## 🧠 Languages:      Dart, Python
-## 🛠️ Frameworks:     Flutter, Riverpod, Firebase, Rive, Hive, Bloc
-## 🗃️ Storage:        Hive, Firebase Firestore, shared preference, SQLite
-## 🎨 Animation:      Rive, Lottie
-## 🧪 Testing:        Flutter Test, Mockito
-## 🔧 Tools:          Git, VS Code, Figma, Android Studio
-## ☁️ Deployment:     Google playstore, Firebase Hosting, GitHub Pages, TestApp.io
+#### 🧠 Languages:      Dart, Python
+#### 🛠️ Frameworks:     Flutter, Riverpod, Firebase, Rive, Hive, Bloc
+#### 🗃️ Storage:        Hive, Firebase Firestore, shared preference, SQLite
+#### 🎨 Animation:      Rive, Lottie
+#### 🧪 Testing:        Flutter Test, Mockito
+#### 🔧 Tools:          Git, VS Code, Figma, Android Studio
+#### ☁️ Deployment:     Google playstore, Firebase Hosting, GitHub Pages, TestApp.io
 
 ---
 
