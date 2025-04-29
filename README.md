@@ -47,9 +47,9 @@
 ### 📫 Let’s Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="40" height="40"/></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="40" height="40"/></a>
+  <a href="www.linkedin.com/in/opadijo-toheeb-790469247" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/></a>
+  <a href="mailto:adekunleopadijo@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="40" height="40"/></a>
+  <a href="https://x.com/onedakes" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="40" height="40"/></a>
 </p>
 
 ---
